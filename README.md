@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <h1>Hey, I'm Ravi Shankar Garapati 👋</h1>
+  <h1>Hey, I'm Shankar  👋</h1>
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
 
 ## 🧠 About Me
 
-I'm **Ravi Shankar Garapati** — an AI/ML engineer, cloud architect, and full-stack developer working at the intersection of **Artificial Intelligence**, **Cloud Computing**, and **Web Development**.
+I'm **Shankar** — an AI/ML engineer, cloud architect, and full-stack developer working at the intersection of **Artificial Intelligence**, **Cloud Computing**, and **Web Development**.
 
 My work spans industries like automotive, healthcare, insurance, and industrial automation — building things like real-time AI diagnostics for connected vehicles, virtual health assistants, AI-driven drug discovery pipelines, and privacy-preserving ML on electronic health records.
 
